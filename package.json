@@ -1,0 +1,14 @@
+{
+  "name": "lysenko.syrupmg.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-client-s3": "git://github.com/kevinold/serverless-client-s3.git#serverless-1.0"
+  }
+}
